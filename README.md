@@ -1,0 +1,1 @@
+A microservices app where users can create posts and add comments that also has a simple comments moderation feature. The frontend end is created using React js and the server is written using express and node js. The app is deployed using docker and kubernetes.
