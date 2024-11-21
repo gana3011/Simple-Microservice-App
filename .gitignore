@@ -1,0 +1,10 @@
+
+**/node_modules/
+
+
+!package.json
+!package-lock.json
+
+
+secret-config.json
+temp-data.json
